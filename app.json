@@ -1,0 +1,16 @@
+{
+  "expo": {
+    "name": "sanlam-app",
+    "slug": "sanlam-app",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "android": {
+      "package": "com.fbni.customerapplite"
+    },
+    "ios": {
+      "bundleIdentifier": "com.fbni.customerapplite"
+    }
+  }
+}
